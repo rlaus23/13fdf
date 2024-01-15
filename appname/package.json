@@ -1,5 +1,5 @@
-{ "homepage": "https://jwnetwork.org",
-
+{ 
+  "homepage": "https://jwnetwork.org",
   "name": "jworg",
   "version": "0.1.0",
   "private": true,
