@@ -87,11 +87,11 @@ const TokenInfo = () => {
   return (
     <TokenInfoWrapper>
       <li>
-        <p>Token Name</p>
+        <p>JWORG</p>
         <p>{tokenName}</p>
       </li>
       <li>
-        <p>Token Symbol</p>
+        <p>JWO</p>
         <p>{tokenSymbol}</p>
       </li>
       <li>
